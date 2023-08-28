@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Units converter</string>
+
+    <string name="conversion_prompt">Select a conversion</string>
+
+    <string-array name="conversion_array">
+        <item>Convert lengths</item>
+        <item>Convert weights</item>
+    </string-array>
+
+</resources>

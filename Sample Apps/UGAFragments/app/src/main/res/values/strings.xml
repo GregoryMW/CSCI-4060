@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UGA Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="overview_text">Chartered by the state of Georgia in 1785, the
+        University of Georgia is the birthplace of public higher education in America — launching
+        our nation’s great tradition of world-class public education.</string>
+    <string name="details_text">As Georgia’s flagship institution, the university is recognized for its commitment to student excellence
+            through an emphasis on rigorous learning experiences both inside and outside the classroom, including
+            hands-on research and leadership opportunities. These experiences contribute to the university’s exceptional rates
+            in retention, graduation and career placement. Among public universities, the University of Georgia has been one of
+            the nation’s top three producers of Rhodes Scholars over the past two decades, and its honors program is ranked as
+            one of the top 10 in the country. The university is also home to the Peabody Awards, the most prestigious prize in electronic media.</string>
+</resources>

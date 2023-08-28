@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Country Travel</string>
+    <string name="selection_prompt">Select a country</string>
+    <string-array name="country_array">
+        <item>Canada</item>
+        <item>Argentina</item>
+        <item>Switzerland</item>
+        <item>Ethiopia</item>
+        <item>Japan</item>
+    </string-array>
+</resources>

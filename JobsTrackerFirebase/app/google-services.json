@@ -1,0 +1,4 @@
+YOU NEED YOUR OWN google-services.json FILE
+
+Create a Firebase project with a Realtime database, configure it
+and download your google-services.json file.

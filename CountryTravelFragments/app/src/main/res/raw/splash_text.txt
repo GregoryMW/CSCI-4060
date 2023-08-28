@@ -1,0 +1,1 @@
+This app gives a quick showcase to 5 different countries around the world. A list of the countries will appear, and you can select one to view information about the given country. When your device is in the landscape orientation, both the list of countries as well as the information is shown at once for easy switching between each country. Click the button below to get started!

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeds_array">
+        <item>Chickweed</item>
+        <item>India crabgrass</item>
+        <item>Yellow nutsedge</item>
+        <item>Dandelion</item>
+        <item>Foxtail</item>
+        <item>Henbit</item>
+        <item>Violet</item>
+        <item>White clover</item>
+        <item>Common ragweed</item>
+        <item>Carpetweed</item>
+    </string-array>
+    <string-array name="weedurls_array">
+        <item>https://turf.caes.uga.edu/pest-management/weeds/broadleaf-weeds/common-chickweed.html</item>
+        <item>https://turf.caes.uga.edu/pest-management/weeds/grass-like-weeds/india-crabgrass.html</item>
+        <item>https://turf.caes.uga.edu/pest-management/weeds/grass-like-weeds/yellow-nutsedge.html</item>
+        <item>https://turf.caes.uga.edu/pest-management/weeds/broadleaf-weeds/dandelion.html</item>
+        <item>https://turf.caes.uga.edu/pest-management/weeds/grass-like-weeds/knotroot-foxtail.html</item>
+        <item>https://turf.caes.uga.edu/pest-management/weeds/broadleaf-weeds/henbit.html</item>
+        <item>https://turf.caes.uga.edu/pest-management/weeds/broadleaf-weeds/violet.html</item>
+        <item>https://turf.caes.uga.edu/pest-management/weeds/broadleaf-weeds/white-clover.html</item>
+        <item>https://turf.caes.uga.edu/pest-management/weeds/broadleaf-weeds/common-ragweed.html</item>
+        <item>https://turf.caes.uga.edu/pest-management/weeds/broadleaf-weeds/carpetweed.html</item>
+    </string-array>
+</resources>

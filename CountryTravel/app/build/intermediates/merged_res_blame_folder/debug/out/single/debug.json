@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\raw_overview_canada.txt.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\raw\\overview_canada.txt"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\drawable_japan_flag.png.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\drawable\\japan_flag.png"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\raw_overview_japan.txt.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\raw\\overview_japan.txt"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\raw_details_japan.txt.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\raw\\details_japan.txt"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\layout_activity_details.xml.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\drawable_argentina_flag.png.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\drawable\\argentina_flag.png"
+    },
+    {
+        "merged": "edu.uga.cs.countrytravel.app-merged_res-29:/raw_details_ethiopia.txt.flat",
+        "source": "edu.uga.cs.countrytravel.app-main-31:/raw/details_ethiopia.txt"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\raw_overview_argentina.txt.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\raw\\overview_argentina.txt"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\raw_overview_ethiopia.txt.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\raw\\overview_ethiopia.txt"
+    },
+    {
+        "merged": "edu.uga.cs.countrytravel.app-merged_res-29:/raw_details_argentina.txt.flat",
+        "source": "edu.uga.cs.countrytravel.app-main-31:/raw/details_argentina.txt"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\drawable_canada_flag.png.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\drawable\\canada_flag.png"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\raw_overview_switzerland.txt.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\raw\\overview_switzerland.txt"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\drawable_switzerland_flag.png.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\drawable\\switzerland_flag.png"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\raw_details_argentina.txt.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\raw\\details_argentina.txt"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\raw_details_switzerland.txt.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\raw\\details_switzerland.txt"
+    },
+    {
+        "merged": "edu.uga.cs.countrytravel.app-merged_res-29:/raw_details_canada.txt.flat",
+        "source": "edu.uga.cs.countrytravel.app-main-31:/raw/details_canada.txt"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\layout_activity_overview.xml.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\layout\\activity_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\drawable_ethiopia_flag.png.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\drawable\\ethiopia_flag.png"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\raw_details_canada.txt.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\raw\\details_canada.txt"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\raw_details_ethiopia.txt.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\raw\\details_ethiopia.txt"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\grego\\.gradle\\daemon\\7.4\\edu.uga.cs.countrytravel.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    }
+]
