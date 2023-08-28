@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299579073124",
+    "project_id": "roommateshopping-b9d6b",
+    "storage_bucket": "roommateshopping-b9d6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299579073124:android:485f7fd8fc5e85f6797571",
+        "android_client_info": {
+          "package_name": "edu.uga.cs.roommateshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299579073124-8ftstt29055akbot7nmm4127omk5v4lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMi3QEedLLdpPWDafFicFVf1nB3P1xkwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299579073124-8ftstt29055akbot7nmm4127omk5v4lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
